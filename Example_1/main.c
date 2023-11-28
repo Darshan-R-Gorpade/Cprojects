@@ -4,7 +4,8 @@ int main()
 {
     int a=3,fact;
     fact = fun(a);
-    printf("The factorail of %d is %d ",a,fact);
+    printf("The factorail of %d is %d %d",a,fact,fact);
+    printf("hello");
  return 0;
 }
 
