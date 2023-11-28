@@ -7,7 +7,7 @@ int main()
     printf("The factorail of %d is %d %d",a,fact,fact);
     printf("hello");
     printf("The factorail of %d is %d ",a);
-    printf("Hello world in main branch\n");
+    printf("Hello world in created branch\n");
  return 0;
 }
 
