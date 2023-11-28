@@ -4,10 +4,10 @@ int main()
 {
     int a=3,fact;
     fact = fun(a);
-    printf("The factorail of %d is %d %d",a,fact,fact);
+    printf("The factorail of %d is %d",a,fact);
     printf("hello");
     printf("The factorail of %d is %d ",a);
-    printf("Hello world in main branch\n");
+    printf("Hello world in feature/newUpdate\n");
  return 0;
 }
 
