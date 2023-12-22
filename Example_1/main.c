@@ -4,7 +4,7 @@ int main()
 {
     int a=3,fact;
     fact = fun(a);
-    printf("The factorail of %d is %d",a,fact);
+    printf("Hello world %d",a,fact);
     printf("hello");
     printf("The factorail of %d is %d ",a);
     printf("Hello world in created branch\n");
